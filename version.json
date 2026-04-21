@@ -1,5 +1,8 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.0.2/ShukeAI-Setup-1.0.2.exe",
-  "notes": "更新西班牙语等各种语言的识别编码问题,导入提示词后无法创建任务 比如 ê á éã 识别问题."
+  "version": "1.0.3",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.0.3/ShukeAI-Setup-1.0.3.exe",
+  "notes": "修复了2.0fast提示词过长，前端显示问题和后端执行时输入不完整就点击提交问题。
+修复了2.0fast职业弹窗不惦记问题
+0积分号已经有了，但是不多，需要可以联系我。0.15没质保。
+用多久看运气吧，按需要。别一下要特别多在退，我受不了。"
 }
