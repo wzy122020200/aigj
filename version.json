@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.0.6/ShukeAI-Setup-1.0.6.exe",
-  "notes": "文生图和文生视频增加了显示任务数,修复了账号管理中卡死的问题.号有了,百分百可用,要多少提前约0.2."
+  "version": "1.0.7",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.0.7/ShukeAI-Setup-1.0.7.exe",
+  "notes": "修复选择不了模型 修复2.0fast@引用名称问题.10054报错加入了多次轮询查询,如果都失败会显示使用账号是什么,手动去下载."
 }
