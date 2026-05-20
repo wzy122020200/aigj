@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.1.1/ShukeAI-Setup-1.1.1.exe",
-  "notes": "增加4.7图片模型,发送全都采用了api发送.节省流量,大幅度提升速度.修复视频跳转页面不对问题"
+  "version": "1.1.2",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.1.2/ShukeAI-Setup-1.1.2.exe",
+  "notes": "增加了gpt image 2模型,前端任务列表改成了静默刷新, 不影响勾选任务了."
 }
