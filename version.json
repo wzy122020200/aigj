@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.1.4/ShukeAI-Setup-1.1.4.exe",
-  "notes": "修复了新弹窗导致抓取不到上下文问题出现-6拉黑账号问题，刚才跑任务拉黑的账号记得释放下。全释放也无所谓 在过一遍就是了。增加了即梦账号管理中导出所选账号，主要目的是为了收集拉黑的账号域名 下次可以排除注册。这里需要大家的帮忙收集了。基础配置中增加了自动下载功能，下载目录一定要选择英文路径 创建文件夹内不要用中文 切记切记！！！"
+  "version": "1.1.5",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.1.5/ShukeAI-Setup-1.1.5.exe",
+  "notes": "更新了因为2.0 mini弹窗没有处理报错-6问题. 更新完后记得解禁拉黑的号"
 }
