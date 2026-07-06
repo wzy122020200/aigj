@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.1.7/ShukeAI-Setup-1.1.7.exe",
-  "notes": "更新了下因为谷歌浏览器升级150版本后无头模式出现白色框问题的处理,同时更新了下弹窗处理,理论上以后出现新弹窗会自动处理. 更新慢的找我要安装包"
+  "version": "1.1.8",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.1.8/ShukeAI-Setup-1.1.8.exe",
+  "notes": "去掉了处理弹窗,速度大幅度提升.流量也会大幅度减少.加入了全部下载,全部删除.数字人也增加了拼接音频下载的功能,(因为有的音频会违规导致静音).并且这个版本不限制使用地区了, 但是必须(日,新,马来,台,香.) 延迟越低越好."
 }
