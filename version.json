@@ -1,5 +1,5 @@
 {
-  "version": "1.1.8",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.1.8/ShukeAI-Setup-1.1.8.exe",
-  "notes": "去掉了处理弹窗,速度大幅度提升.流量也会大幅度减少.加入了全部下载,全部删除.数字人也增加了拼接音频下载的功能,(因为有的音频会违规导致静音).并且这个版本不限制使用地区了, 但是必须(日,新,马来,台,香.) 延迟越低越好."
+  "version": "1.1.9",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.1.9/ShukeAI-Setup-1.1.9.exe",
+  "notes": "去掉了一些不可用的模型,报错1019属于号封禁.真实拉黑.不要进行释放了,没什么意义.近7-10天拿过的可以适当补回一些."
 }
