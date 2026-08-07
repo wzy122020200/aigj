@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.1.9/ShukeAI-Setup-1.1.9.exe",
-  "notes": "去掉了一些不可用的模型,报错1019属于号封禁.真实拉黑.不要进行释放了,没什么意义.近7-10天拿过的可以适当补回一些."
+  "version": "1.2.0",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.0/ShukeAI-Setup-1.2.0.exe",
+  "notes": "1.修复了banana提交报错1000 2.重试次数改为了3次 3.gpt去除了用不成的比例 4.全局线程数最大支持到20(买服务器的专线网络号可以考虑用,电脑内存32G以上.其他的稳定的建议还是5-10线程) 5.图片新增选择出图数量,支持1-8张图选择,不管多少张依旧是每天5次 6.设置里增加了批量下载并发数设置"
 }
