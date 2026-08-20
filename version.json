@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.1/ShukeAI-Setup-1.2.1.exe",
-  "notes": "基础设置增加了动态,解决了提交-6问题 "
+  "version": "1.2.2",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.2/ShukeAI-Setup-1.2.2.exe",
+  "notes": "修复执行任务时切换有头无头会导致跳转失败问题  增加动态 解决-6问题 "
 }
