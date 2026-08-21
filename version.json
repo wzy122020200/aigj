@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.3/ShukeAI-Setup-1.2.3.exe",
-  "notes": "动态增加了http和sk5的选项,这样v2的也可以使用.转换测试可以http不通可以试试sk5. 账号管理中增加了解禁所有选项. 即使用了动态也会有偶尔-6出现 不影响, 解禁了就行."
+  "version": "1.2.4",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.4/ShukeAI-Setup-1.2.4.exe",
+  "notes": "下载不在带左上角ai水印了。这两天更新比较频繁只为更完善。总结下更新内容，1.增加了动态支持http和sk5。填入模板测试哪个通，然后就用哪个。解释下动态只用于构建，跳转全是网络问题，和动态没关系。并且动态消耗几乎等于0。不用太担心。现在还是偶有动态了还-6 不影响，解禁就可以。2.去除了下载左上角水印问题。有不懂的再问我吧。."
 }
