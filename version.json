@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.2/ShukeAI-Setup-1.2.2.exe",
-  "notes": "修复执行任务时切换有头无头会导致跳转失败问题  增加动态 解决-6问题 "
+  "version": "1.2.3",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.3/ShukeAI-Setup-1.2.3.exe",
+  "notes": "动态增加了http和sk5的选项,这样v2的也可以使用.转换测试可以http不通可以试试sk5. 账号管理中增加了解禁所有选项. 即使用了动态也会有偶尔-6出现 不影响, 解禁了就行."
 }
