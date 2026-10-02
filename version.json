@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.7/ZaoJieAi-Setup-1.2.7.exe",
-  "notes": "1.1006报错是权益没有了,增加了无权益统计,记得删除,不要释放 \n2.自动下载去除了文件名一致排重的问题,但是删除任务重新导入还是要重启程序的. \n3.增加了分配任务锁. "
+  "version": "1.2.8",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.8/ZaoJieAi-Setup-1.2.8.exe",
+  "notes": "1.更新生图优先采用生过图的进行生成. \n2.动态增加兼容动态2的新格式转换,不影响动态3.都兼容. "
 }
