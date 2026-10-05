@@ -1,5 +1,6 @@
 {
   "version": "1.2.8",
   "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.8/ZaoJieAi-Setup-1.2.8.exe",
-  "notes": "1.更新生图优先采用生过图的进行生成. \n2.动态增加兼容动态2的新格式转换,不影响动态3.都兼容. "
+  "notes": "1.更新生图优先采用生过图的进行生成.\n2.动态增加兼容动态2的新格式转换,不影响动态3.都兼容.",
+  "announcement_url": "https://frosty-grass-b193.wzy122020200.workers.dev/announcements.json"
 }
