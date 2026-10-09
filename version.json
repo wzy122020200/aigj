@@ -1,7 +1,7 @@
 {
-  "version": "1.2.8",
-  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.8/ZaoJieAi-Setup-1.2.8.exe",
-  "notes": "1.更新生图优先采用生过图的进行生成.\n2.动态增加兼容动态2的新格式转换,不影响动态3.都兼容.",
+  "version": "1.2.9",
+  "download_url": "https://github.com/wzy122020200/aigj/releases/download/v1.2.9/ZaoJieAi-Setup-1.2.9.exe",
+  "notes": "1. 增加121101积分不足报错会把次数拉满,不在一直重复采用了.\n 2. 重置次数时间改到了北京时间早起的8点.\n3. 优化了下20秒超时的问题. 增加了三次兜底,在显示超时就检查网络!!!\n4. 图片生成优先采用了已经生过图的进行生成.\n5. 增加了公告. 以后有紧急事情或者什么问题我会公告发布.",
   "announcement_url": "https://frosty-grass-b193.wzy122020200.workers.dev/announcements.json",
   "license_api_url": "https://zaojie-license-api.wzy122020200.workers.dev/api/license/verify"
 }
